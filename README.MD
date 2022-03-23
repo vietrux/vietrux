@@ -27,7 +27,9 @@
     <br><br>
     <p><a href="htttps://discord.gg/#9175"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Facebook"></a> <a href="https://facebook.com/vietrux"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&amp;logo=Facebook&amp;logoColor=white" alt="Facebook"></a> <a href="https://instagram.com/vietrux"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="Instagram"></a> <a href="https://twitter.com/vietrux"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" alt="Twitter"></a> </p>
 </div>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=E723FF&amp;background=C5000000&amp;center=true&amp;vCenter=true&amp;lines=I&#39;m+a+Full-Stack+Developer;Con+chim+non+tren+canh+cay" alt="Typing SVG"></a></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=E723FF&amp;background=C5000000&amp;center=true&amp;vCenter=true&amp;lines=I&#39;m+a+Full-Stack+Developer;Con+chim+non+tren+canh+cay" alt="Typing SVG"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <table align="center">
 <thead>
 <tr>
