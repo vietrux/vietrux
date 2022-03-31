@@ -22,9 +22,9 @@
     </p>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"><a href="https://git.io/typing-svg"><img
+<p align="center"><img
             src="https://readme-typing-svg.herokuapp.com?color=E723FF&amp;background=C5000000&amp;center=true&amp;vCenter=true&amp;lines=I&#39;m+a+Full-Stack+Developer;Con+chim+non+tren+canh+cay"
-            alt="Typing SVG"></a>
+            alt="Typing SVG">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 <table align="center">
