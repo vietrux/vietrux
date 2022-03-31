@@ -1,31 +1,7 @@
 <h1 align="center">HI THERE! WELCOME TO MY GITHUB PROFILE</h1>
 <div align="center">
-    <img src="https://cultofthepartyparrot.com/flags/hd/vietnamparrot.gif" width="36" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25" />
-    <br><br>
     <p>
+         <img src="https://cdn.trug.cf/img/gif/amibungbu.gif" width="175" />
         <a href="https://discordapp.com/users/762934286109507617/">
             <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"
                 alt="Facebook">
@@ -42,6 +18,7 @@
             <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white"
                 alt="Twitter">
         </a>
+         <img src="https://cdn.trug.cf/img/gif/amibungbu.gif" width="175" />
     </p>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
