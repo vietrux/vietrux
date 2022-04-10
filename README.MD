@@ -1,3 +1,6 @@
+![2000px-Flag_of_Vietnam svg](https://user-images.githubusercontent.com/89530449/162602642-6d4724f9-0fae-4c70-98e6-67c5622cda13.png)
+
+<!--
 <h1 align="center">HI THERE! WELCOME TO MY GITHUB PROFILE</h1>
 <div align="center">
     <p>
@@ -77,3 +80,4 @@
 <p align="center"><img
         src="https://github-profile-trophy.vercel.app/?username=vietrux&amp;theme=darkhub&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4"
         alt=""></p>
+-->
