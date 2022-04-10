@@ -1,4 +1,4 @@
-<!--![2000px-Flag_of_Vietnam svg](https://user-images.githubusercontent.com/89530449/162602642-6d4724f9-0fae-4c70-98e6-67c5622cda13.png)-->
+
 ![Untitled design](https://user-images.githubusercontent.com/89530449/162602780-4419de43-3b75-48e0-ab1e-043ad01f98a4.png)
 
 
