@@ -1,5 +1,5 @@
-
-![Untitled design](https://user-images.githubusercontent.com/89530449/162602780-4419de43-3b75-48e0-ab1e-043ad01f98a4.png)
+![Untitled
+design](https://user-images.githubusercontent.com/89530449/162602780-4419de43-3b75-48e0-ab1e-043ad01f98a4.png)
 <!--![ảnh](https://user-images.githubusercontent.com/89530449/165934638-bfcf8017-e2bf-4037-8461-dd000dbc3317.png)-->
 
 
@@ -7,7 +7,6 @@
 <h1 align="center">HI THERE! WELCOME TO MY GITHUB PROFILE</h1>
 <div align="center">
     <p>
-         <img src="https://cdn.trug.cf/img/gif/amibungbu.gif" width="175" />
         <a href="https://discordapp.com/users/762934286109507617/">
             <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"
                 alt="Facebook">
@@ -24,15 +23,8 @@
             <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white"
                 alt="Twitter">
         </a>
-         <img src="https://cdn.trug.cf/img/gif/amibungbu.gif" width="175" />
     </p>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"><img
-            src="https://readme-typing-svg.herokuapp.com?color=E723FF&amp;background=C5000000&amp;center=true&amp;vCenter=true&amp;lines=I&#39;m+a+Full-Stack+Developer;Con+chim+non+tren+canh+cay"
-            alt="Typing SVG">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
 <table align="center">
     <thead>
         <tr>
@@ -64,23 +56,14 @@
                         alt="Python">
                 </p>
             </th>
-            <th><img src="https://github-readme-stats.vercel.app/api?username=vietrux&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false"
-                    alt=""></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietrux&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact"
-                    alt=""></td>
-            <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=vietrux&amp;theme=dark&amp;hide_border=false"
-                    alt=""></td>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietrux&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact"
+                    alt="">
+            </td>
         </tr>
     </tbody>
 </table>
-
-
-
-<p align="center"><img
-        src="https://github-profile-trophy.vercel.app/?username=vietrux&amp;theme=darkhub&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4"
-        alt=""></p>
-
