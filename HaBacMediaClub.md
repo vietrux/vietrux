@@ -1,17 +1,14 @@
 # Ha Bac Media Club
 
 **Mục lục**:
-- [Sơ lược](#So-luoc)
-  - [Lý do](#ly-do)
-  - [Ý tưởng hoạt động clb](#y-tuong-hoat-dong-clb)
-  - [Kế hoạch tạo dựng sơ lược](#ke-hoach-tao-dung-so-luoc)
-- [Kế hoạch tạo dựng chi tiết](#ke-hoach-tao-dung-chi-tiet)
-  - [Đổi avt Đánh dấu sự trở lại](#doi-avt-danh-dau-su-tro-lai)
-  - [Tuyển thành viên](#tuyen-thanh-vien)
-  - [Đăng bài công bố nhân sự](#dang-bai-cong-bo-nhan-su)
-- [Kế hoạch lâu dài](#ke-hoach-lau-dai)
-  - [Hoạt động bắt buộc](#hoat-dong-bat-buoc)
-  - [Hoạt động tùy chọn](#hoat-dong-tuy-chon)
+- [Sơ lược](#i-sơ-lược)
+- [Kế hoạch tạo dựng chi tiết](#ii-kế-hoạch-tạo-dựng-chi-tiết)
+  - [Đổi avt Đánh dấu sự trở lại](#1-đổi-avt-đánh-dấu-sự-trở-lại-)
+  - [Tuyển thành viên](#2-tuyển-thành-viên)
+  - [Đăng bài công bố nhân sự](#3-đăng-bài-công-bố-nhân-sự-trong-clb)
+- [Kế hoạch lâu dài](#iii-kế-hoạch-lâu-dài)
+  - [Hoạt động bắt buộc](#hoạt-động-bắt-buộc-required)
+  - [Hoạt động tùy chọn](#hoạt-động-tùy-chọn-optional)
 
 
 ## I. Sơ lược
