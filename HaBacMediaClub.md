@@ -72,4 +72,4 @@
 - **Những ngày lễ khác**: *( Trung thu, Halloween, Giáng sinh,...)*:
     - Tổ chức sự kiện có liên quan đến những dịp này
 ## Ghi chú
-> Ý tưởng về hoạt động và sự kiện sẽ được lên kế hoạch với các ban.
+> Ý tưởng về hoạt động và sự kiện sẽ được lên kế hoạch với các ban trong clb.
