@@ -25,7 +25,7 @@
         - Phân ban:
             1. **Ban quản lý**: Điều hành, xác định hướng đi cho CLB, kiểm duyệt, đối ngoại. 
             2. **Ban nội dung**: Lên ý tưởng, kế hoạch và xây dựng những sự kiện, event. Viết bài, đăng bài
-            3. **Ban kỹ thuật**: Thiết kế logo, banner. Chỉnh sửa ảnh video.
+            3. **Ban kỹ thuật**: Thiết kế logo, banner. Chỉnh sửa âm thanh, hình ảnh và video.
 
 ## II. Kế hoạch tạo dựng chi tiết
 
