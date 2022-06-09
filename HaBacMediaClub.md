@@ -35,7 +35,8 @@
 **Tuyển theo ban:**
 - Ban quản lý & nội dung:
     - Thực hiện các vòng tuyển chọn thành viên:
-        - Vòng 1: Sơ tuyển
+        - Vòng 1: Sơ tuyển 
+          - Trả lời các câu hỏi nhanh từ phía BTC
         - Vòng 2: Thực hiện hoạt động thử (làm việc nhóm với nhau)
         - Vòng 3: Phỏng vấn trực tiếp (lý do tham gia clb, làm gì để phát triển clb)
 - Ban kỹ thuật:
