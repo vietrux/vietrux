@@ -61,6 +61,6 @@
     - Tổ chức sự kiện có liên quan đến những dịp này
 - **Những hoạt động khác**:
     - Tổ chức ra các giải đấu thể thao *(ví dụ: giao lưu cầu lông trong trường, giao lưu bóng đá với học sinh cũ,...)*
-    - Tổ chức các buổi ngoại khóa, các buổi gặp gỡ *(ví dụ: gặp mặt cựu học sinh để chia sẻ kinh nghiệm học tập, kinh nghiệm trước đại học,...)*
+    - Tổ chức các buổi ngoại khóa, các buổi gặp gỡ *(ví dụ: gặp mặt cựu học sinh để chia sẻ kinh nghiệm học tập, kinh nghiệm trước khi lên đại học,...)*
 ## Ghi chú
 > Ý tưởng về hoạt động và sự kiện sẽ được lên kế hoạch với các ban trong clb và sẽ được ban quản lý xét duyệt trước khi thực hiện.
