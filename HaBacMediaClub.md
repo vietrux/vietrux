@@ -9,7 +9,7 @@
 - [Kế hoạch lâu dài](#iii-kế-hoạch-lâu-dài)
   - [Hoạt động bắt buộc](#hoạt-động-bắt-buộc-required)
   - [Hoạt động tùy chọn](#hoạt-động-tùy-chọn-optional)
-
+- [Ghi chú](#ghi-chú)
 
 ## I. Sơ lược
 - **Lý do**: Thành lập để nâng cao các hoạt động truyền thông cho nhà trường, tạo ra các hoạt động giúp gắn kết học sinh của nhà trường.
