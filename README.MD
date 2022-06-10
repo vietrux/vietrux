@@ -26,10 +26,13 @@ design](https://user-images.githubusercontent.com/89530449/162602780-4419de43-3b
     </p>
 </div>
 <table align="center">
-    <thead>
+    <tbody>
         <tr>
-            <th>
-                <p align="center">
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietrux&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact"
+                    alt="">
+            </td>
+            <td>              <p align="center">
                     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white"
                         alt="HTML5">
                     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white"
@@ -54,16 +57,7 @@ design](https://user-images.githubusercontent.com/89530449/162602780-4419de43-3b
                         alt="Yarn">
                     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54"
                         alt="Python">
-                </p>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietrux&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact"
-                    alt="">
-            </td>
+                </p></td>
         </tr>
     </tbody>
 </table>
