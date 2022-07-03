@@ -1,7 +1,8 @@
 
+![image](https://user-images.githubusercontent.com/89530449/177038199-f994ef8c-0750-4253-8f03-0246d1b51d64.png)
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
