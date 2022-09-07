@@ -40,7 +40,7 @@ Chi tiết như sau:
 **Ban sáng tạo**: là nơi nắm bắt sự kiện, trực tiếp lên ý tưởng cho sự kiện ( nơi khởi nguồn của clb )
 - ***Trưởng ban***: Nhiệm vụ của trưởng ban sáng tạo là chỉ đạo việc lên ý tưởng, trực tiếp bàn bạc với các thành viên về các vấn đề như: cách thức thực hiện, chi tiết các phần trong ý tưởng, **mức độ khả thi của ý tưởng**, etc. Trưởng ban sáng tạo sẽ là người chịu trách nhiệm về mặt ý tưởng cho các sự kiện, bảo đảm tính sáng tạo và tính khả thi của ý tưởng.
 
-**Ban phụ trách**: là nơi tiếp nhận ý tưởng từ ban sáng tạo, lên kế hoạch thực hiện ý tưởng và phân phối công việc cho ban nội dung và ban kỹ thuật.
+**Ban phụ trách**: là nơi tiếp nhận ý tưởng từ ban sáng tạo, xét duyệt, lên kế hoạch thực hiện ý tưởng và phân phối công việc cho các ban.
 
 **Ban nội dung**: là nơi tiếp nhận công việc từ ban phụ trách, thực hiện viết nội dung cho sự kiện như: bài viết đăng page, kịch bản cho video, etc.
 - ***Trưởng ban***: Là người nhận nhiệm vụ từ ban phụ trách, chỉ đạo thực hiện việc viết nội dung, kiểm tra và bảo đảm tính cô đọng và chất lượng của bài viết.
