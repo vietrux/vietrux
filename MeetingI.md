@@ -33,7 +33,7 @@
 ## Phổ biến cách hoạt động và hướng đi
 ### 1.Phổ biến cách thức hoạt động (vẽ biểu đồ):  
 
-![image](https://user-images.githubusercontent.com/89530449/188741819-6ef7085e-8d7c-4259-8954-0f610c4975c7.png)
+![image](https://user-images.githubusercontent.com/89530449/188857024-a99c1d4d-2ef1-45f0-9a8b-9f6b20d35e7c.png)
 
 Chi tiết như sau:
 
